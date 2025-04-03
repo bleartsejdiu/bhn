@@ -1,8 +1,13 @@
 :root {
-    --primary: #86B817;
-    --secondary: #FE8800;
+    --primary: #2274A5;
+    --secondary:#131B23;
     --light: #F5F5F5;
     --dark: #14141F;
+}
+
+.custom-blue {
+  background-color: #007bff; /* Një nuancë e kaltër nga Bootstrap */
+  color: white;
 }
 
 .fw-medium {
